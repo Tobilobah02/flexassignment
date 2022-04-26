@@ -1,0 +1,88 @@
+header {background-color: darkmagenta;
+       color: white;
+       text-align: center;
+       max-width: 100%;
+       width: 100%;
+       padding: 20px 0px 20px 0px;
+}
+html{max-width: 100%;
+       width: 100;
+}
+.segment {background-color:white;
+       display:grid;
+       grid-template-columns: 25% 25% 60%;
+       white-space: nowrap;
+       margin: 0 auto;
+       max-width: 100%;
+       width: 100%;
+        
+}
+.grid1{color: black;
+       padding: 10px 0px 80px 5px;
+       background-color: aqua;
+       margin: 5px 0;
+       border: 4px solid aqua;
+       border-radius: 0px;
+       width: 90%;
+}
+.grid1 h3 {text-decoration: solid;
+            font-size: 30px;
+}
+.grid2{color: black; padding: 10px 0px 80px 5px;
+       background-color: aqua;
+       margin: 5px 0;
+       border: 4px solid aqua;
+       border-radius: 0px;
+       width: 90%;
+}
+.grid2 h3{text-decoration: solid;
+       font-size: 30px;
+}
+.grid3{ background-color: aqua;
+       margin:5px 0 ;
+       width: 90%;
+       border:4px solid aqua ;
+       white-space: nowrap;
+       max-width: 90%;
+       
+}
+.smile{padding: 5px 10px 5px 20px;
+       border: 4px solid white;
+       width: 22.5%;
+       background-color: white;
+       display: inline-block;
+       text-align: center;
+
+}
+.laugh{padding: 5px 10px 5px 10px;
+       border: 4px solid white;
+       width: 20.5%;
+       background-color: white;
+       display: inline-block;
+       text-align: center;
+}
+.wink{padding: 5px 10px 5px 10px;
+       border: 4px solid white;
+       width: 20.5%;
+       background-color: white;
+       display: inline-block;
+       text-align: center;
+}
+.shrug{padding: 5px 10px 5px 10px;
+       border: 4px solid white;
+       width: 20.5%;
+       background-color: white;
+       display: inline-block;
+       text-align: center;
+}
+.blush{padding: 5px 10px 5px 10px;
+       border: 4px solid white;
+       width: 100%;
+       background-color: white;
+       text-align: center;
+       margin: 1px 1px 0px 0px;
+}
+h4{font-size: 20px;
+   line-height: 2cm;
+   ;
+}
